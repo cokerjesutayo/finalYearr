@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import { Link, useLocation } from "react-router-dom";
-import Logo from "./../../assets/images/SunkasLogo.png";
+import Logo from "./../../assets/images/sunkasLogo.png";
 import "../../styles/Admin Styles/AdminSideBar.css";
 import AllProp from "./../../assets/images/allprop.png";
 import Addnew from "./../../assets/images/addnew.png";
